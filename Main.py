@@ -1,7 +1,3 @@
-telegram-bot/
-├── main.py
-├── requirements.txt
-└── Procfile
 from telegram import Update
 from telegram.ext import Application, CommandHandler, M>
 from telegram.ext import filters  # توجه: filters با حر>
